@@ -1,0 +1,5 @@
+Github version control
+Add model training check point
+Go over the L1L2 regularization code
+Cross-validation
+Practice tuning hyperparameter, such as dropout rate
