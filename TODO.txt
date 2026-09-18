@@ -1,3 +1,2 @@
-Cross-validation
 Practice tuning hyperparameter, such as dropout rate
 Try more complex models, such as CNN, RNN, transformers, etc.
